@@ -1,0 +1,6 @@
+
+Дата вызова функции: 2023-03-27 время 20-23-37
+Имя функции: get_page
+Аргументы функции: (('https://spb.hh.ru/search/vacancy?area=1&area=2&search_field=name&search_field=company_name&search_field=description&enable_snippets=true&text=python&ored_clusters=true',), {})
+Возвращаемое значение функции: <Response [200]>
+**************************************************
